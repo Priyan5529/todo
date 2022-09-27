@@ -1,0 +1,25 @@
+.list
+{
+    color: #fff;
+    width: 300px;
+    background-color: #0da3d1;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 10px;
+   
+   
+}
+.list p{
+    padding: 10px;
+    position: relative;
+   
+
+}
+.list p span
+{
+    position: absolute;
+    right: 10px;
+   cursor: pointer;
+   
+  
+}
